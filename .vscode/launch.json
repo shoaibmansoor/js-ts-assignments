@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/read-json-into-memory/index.js",
+            "program": "${workspaceFolder}/read-json-into-memory/index.js", // change filepath here
             "outFiles": [
                 "${workspaceFolder}/**/*.js"
             ]
