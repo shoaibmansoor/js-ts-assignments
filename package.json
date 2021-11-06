@@ -1,0 +1,25 @@
+{
+  "name": "js-ts-assignments",
+  "version": "1.0.0",
+  "description": "internal project to develop simple assignments",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "js-calculator": "calculator-js/index.js",
+    "print-json-array": "read-json-into-memory/index.js",
+    "rps": "node rock-paper-scissor/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoaibmansoor/js-ts-assignments.git"
+  },
+  "author": "Shoaib Mansoor <shoaibmansoor@live.in>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shoaibmansoor/js-ts-assignments/issues"
+  },
+  "homepage": "https://github.com/shoaibmansoor/js-ts-assignments#readme",
+  "dependencies": {
+    "prompt-sync": "^4.1.6"
+  }
+}
